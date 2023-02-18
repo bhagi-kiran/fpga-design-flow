@@ -56,5 +56,10 @@ Now we gonna replicate the entire block diagram flow in this documentation
 6. IMPLEMENTATION
 ---
 ![image](https://user-images.githubusercontent.com/115934581/219885061-c2687379-3c1e-4730-bea1-37de3f1b2f1f.png)
+![image](https://user-images.githubusercontent.com/115934581/219886299-a8c8c7aa-31f6-43b5-9a3b-3f0d8475e0cd.png)
+
+7. POST IMP;EMENTATION FUNCTIONAL SIMULATION
+---
+![image](https://user-images.githubusercontent.com/115934581/219887126-c9d88832-b1d0-4f03-9c9d-3fa1bbce4645.png)
 
 
