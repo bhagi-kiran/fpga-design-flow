@@ -54,5 +54,8 @@ Now we gonna replicate the entire block diagram flow in this documentation
 ![image](https://user-images.githubusercontent.com/115934581/219880817-ce13839d-17fb-45c1-b7b1-684a0ce8f3a0.png)
 ![image](https://user-images.githubusercontent.com/115934581/219881074-87912fe3-3307-4f9b-ac23-d22282d53b75.png)
 
+6. IMPLEMENTATION
+---
+![image](https://user-images.githubusercontent.com/115934581/219885061-c2687379-3c1e-4730-bea1-37de3f1b2f1f.png)
 
 
