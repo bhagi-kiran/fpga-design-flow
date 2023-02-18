@@ -1,3 +1,3 @@
 # fpga-design-flow
 
-**this repository contains fpga design flow documentation using xilinx vivado**
+***This Repository contains FPGA Design Flow Documentation using Xilinx Vivado***
