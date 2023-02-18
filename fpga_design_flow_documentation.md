@@ -1,16 +1,15 @@
 # FPGA DESIGN FLOW DOCUMENTATION
 
-*We've already summarised the process that exist in fpga design flow. To navigate click [here](fpga_design_flow_chart.md)*
-Now we gonna replicate the entire block diagram flow in this documentation
+***We've already summarised the process that exist in fpga design flow. To navigate click [here](fpga_design_flow_chart.md). Now we gonna replicate the entire block diagram flow in this documentation***
 
-**Design Code, Testbench Code and I/O Planning constraints are presented [here](source_codes.md)**
+***Design Code, Testbench Code and I/O Planning constraints are presented [here](source_codes.md)***
 
 ## CREATING PROJECT
 ![image](https://user-images.githubusercontent.com/115934581/219873306-1e6c9431-2853-41e9-977a-2bb6e3c5abf7.png)
 ![image](https://user-images.githubusercontent.com/115934581/219873375-33f748f5-8a1f-406d-b624-de164bd65ece.png)
 ![image](https://user-images.githubusercontent.com/115934581/219873786-1109afe9-9381-4ae3-a1d7-ffcfeca3cba8.png)
-- *The board we gonna use is NEXYS4 DDR, the reason is the constraint file we are using is belonging to this board.*
-- *If you dont gave digilent boards available in the boards section then you can install from this [link](https://digilent.com/reference/programmable-logic/guides/install-board-files).*
+- **The board we gonna use is NEXYS4 DDR, the reason is the constraint file we are using is belonging to this board.**
+- **If you dont gave digilent boards available in the boards section then you can install from this [link](https://digilent.com/reference/programmable-logic/guides/install-board-files).**
 ![image](https://user-images.githubusercontent.com/115934581/219873987-82405059-c5e8-46be-9c04-ebb6ab495dbf.png)
 
 ---
@@ -61,7 +60,7 @@ Now we gonna replicate the entire block diagram flow in this documentation
 ---
 ![image](https://user-images.githubusercontent.com/115934581/219885061-c2687379-3c1e-4730-bea1-37de3f1b2f1f.png)
 ![image](https://user-images.githubusercontent.com/115934581/219886299-a8c8c7aa-31f6-43b5-9a3b-3f0d8475e0cd.png)
-- we can also adopt some optimization stategies if we wish to, demo will be provided ==>here
+- **We can also adopt some Optimization Stategies if we wish to, Demo will be provided ==>here**
 
 ---
 ## 7. POST IMPLEMENTATION FUNCTIONAL SIMULATION
