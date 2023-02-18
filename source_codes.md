@@ -58,7 +58,7 @@ module tb ();
  reg [2:0] sel;
  wire [7:0] dout;
  
- top t1 (clk,a,b,c,d,e,f,g,h,sel,dout);
+ top inst1 (clk,a,b,c,d,e,f,g,h,sel,dout);
  
  always #5 clk = ~clk;
  
