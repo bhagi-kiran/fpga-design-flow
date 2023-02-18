@@ -33,3 +33,4 @@ Now we gonna replicate the entire block diagram flow in this documentation
 ---
 3. SYNTHESIS
 ![image](https://user-images.githubusercontent.com/115934581/219877271-2f5689b2-4ef6-4817-a8c2-6017fd341069.png)
+![image](https://user-images.githubusercontent.com/115934581/219878023-0725b032-ba07-4150-91f4-54142f5de1f0.png)
