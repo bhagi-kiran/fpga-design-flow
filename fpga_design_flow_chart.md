@@ -1,4 +1,4 @@
-#fpga design flow chart
+# FPGA DESIGN FLOW CHART
 
 Here is a simple flow chart:
 ```mermaid
