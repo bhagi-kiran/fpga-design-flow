@@ -3,7 +3,7 @@
 *We've already summarised the process that exist in fpga design flow. To navigate click [here](fpga_design_flow_chart.md)*
 Now we gonna replicate the entire block diagram flow in this documentation
 
-source code tb code and io planning constraints [here](source_codes.md)
+**Design Code, Testbench Code and I/O Planning constraints are presented [here](source_codes.md)**
 
 1. CREATING PROJECT
 ![image](https://user-images.githubusercontent.com/115934581/219873306-1e6c9431-2853-41e9-977a-2bb6e3c5abf7.png)
@@ -22,3 +22,9 @@ source code tb code and io planning constraints [here](source_codes.md)
 
 ---
 3. BEHAVIOURAL SIMULATION
+![image](https://user-images.githubusercontent.com/115934581/219876629-86bcd4e3-1827-44aa-8b4b-419cfe97bb18.png)
+![image](https://user-images.githubusercontent.com/115934581/219876660-34b2515e-561d-4b39-9ae0-4415908bc26a.png)
+![image](https://user-images.githubusercontent.com/115934581/219876736-dd12f760-ac4d-4736-beb7-db3022c0e98e.png)
+![image](https://user-images.githubusercontent.com/115934581/219876823-7cd15d45-1b66-4df0-a3f1-c041691931bb.png)
+![image](https://user-images.githubusercontent.com/115934581/219876906-feeee01a-8805-42fe-80e4-67d8f281ec5d.png)
+![image](https://user-images.githubusercontent.com/115934581/219877017-5806853a-fdf7-45b8-829f-bda39c456f41.png)
