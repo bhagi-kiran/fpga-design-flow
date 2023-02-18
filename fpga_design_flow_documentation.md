@@ -38,18 +38,17 @@ Now we gonna replicate the entire block diagram flow in this documentation
 ![image](https://user-images.githubusercontent.com/115934581/219878023-0725b032-ba07-4150-91f4-54142f5de1f0.png)
 
 ---
-<4. POST SYNTHESIS FUNCTIONAL SIMULATION>
-<--->
-<![image](https://user-images.githubusercontent.com/115934581/219878658-f55d8a2b-6a8e-4901-a6b2-63ed79c4a926.png)>
-<![image](https://user-images.githubusercontent.com/115934581/219879365-45e73d35-47f4-4584-aebf-1545b5a9c732.png)>
+<!-- 4. POST SYNTHESIS FUNCTIONAL SIMULATION -->
+<!-- ![image](https://user-images.githubusercontent.com/115934581/219878658-f55d8a2b-6a8e-4901-a6b2-63ed79c4a926.png) -->
+<!-- ![image](https://user-images.githubusercontent.com/115934581/219879365-45e73d35-47f4-4584-aebf-1545b5a9c732.png) -->
 
 ---
-5. I/O PLANNING
+4. I/O PLANNING
 ---
 ![image](https://user-images.githubusercontent.com/115934581/219879928-a4f0f359-2ff7-4f8a-924f-f2c3cb10bf51.png)
 ![image](https://user-images.githubusercontent.com/115934581/219880032-bf6e8fde-e1e4-4872-b93b-7ef83810a57e.png)
 
-4. POST SYNTHESIS FUNCTIONAL SIMULATION
+5. POST SYNTHESIS FUNCTIONAL SIMULATION
 ---
 ![image](https://user-images.githubusercontent.com/115934581/219880817-ce13839d-17fb-45c1-b7b1-684a0ce8f3a0.png)
 ![image](https://user-images.githubusercontent.com/115934581/219881074-87912fe3-3307-4f9b-ac23-d22282d53b75.png)
