@@ -61,5 +61,10 @@ Now we gonna replicate the entire block diagram flow in this documentation
 7. POST IMP;EMENTATION FUNCTIONAL SIMULATION
 ---
 ![image](https://user-images.githubusercontent.com/115934581/219887126-c9d88832-b1d0-4f03-9c9d-3fa1bbce4645.png)
+![image](https://user-images.githubusercontent.com/115934581/219889428-e4a228dc-f262-48c6-a2ef-fbaf48d95324.png)
 
+8. GENERATING PROGRAMMING FILE
+---
+![image](https://user-images.githubusercontent.com/115934581/219890178-23b42a68-3f93-4598-9abb-5ec0bdb17ced.png)
+ 
 
