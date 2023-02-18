@@ -49,4 +49,7 @@ Now we gonna replicate the entire block diagram flow in this documentation
 ![image](https://user-images.githubusercontent.com/115934581/219879928-a4f0f359-2ff7-4f8a-924f-f2c3cb10bf51.png)
 ![image](https://user-images.githubusercontent.com/115934581/219880032-bf6e8fde-e1e4-4872-b93b-7ef83810a57e.png)
 
+4. POST SYNTHESIS FUNCTIONAL SIMULATION
+---
+![image](https://user-images.githubusercontent.com/115934581/219880729-9c349b06-a88c-480b-805e-e48b3715e880.png)
 
