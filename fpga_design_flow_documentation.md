@@ -19,3 +19,6 @@ source code tb code and io planning constraints [here](source_codes.md)
 ![image](https://user-images.githubusercontent.com/115934581/219874987-5e33a938-e70f-479f-9965-d748f0c4a974.png)
 ![image](https://user-images.githubusercontent.com/115934581/219875174-ec0e2813-00a0-42e8-8d5b-aed57c9ebae3.png)
 ![image](https://user-images.githubusercontent.com/115934581/219875396-c8792fa0-e9e5-4064-b7f8-47a1bd03fd0d.png)
+
+---
+3. BEHAVIOURAL SIMULATION
