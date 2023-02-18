@@ -50,24 +50,32 @@ Now we gonna replicate the entire block diagram flow in this documentation
 ![image](https://user-images.githubusercontent.com/115934581/219879928-a4f0f359-2ff7-4f8a-924f-f2c3cb10bf51.png)
 ![image](https://user-images.githubusercontent.com/115934581/219880032-bf6e8fde-e1e4-4872-b93b-7ef83810a57e.png)
 
+---
 5. POST SYNTHESIS FUNCTIONAL SIMULATION
 ---
 ![image](https://user-images.githubusercontent.com/115934581/219880817-ce13839d-17fb-45c1-b7b1-684a0ce8f3a0.png)
 ![image](https://user-images.githubusercontent.com/115934581/219881074-87912fe3-3307-4f9b-ac23-d22282d53b75.png)
 
+---
 6. IMPLEMENTATION
 ---
 ![image](https://user-images.githubusercontent.com/115934581/219885061-c2687379-3c1e-4730-bea1-37de3f1b2f1f.png)
 ![image](https://user-images.githubusercontent.com/115934581/219886299-a8c8c7aa-31f6-43b5-9a3b-3f0d8475e0cd.png)
+- we can also adopt some optimization stategies if we wish to, demo will be provided ==>here
 
-7. POST IMP;EMENTATION FUNCTIONAL SIMULATION
+---
+7. POST IMPLEMENTATION FUNCTIONAL SIMULATION
 ---
 ![image](https://user-images.githubusercontent.com/115934581/219887126-c9d88832-b1d0-4f03-9c9d-3fa1bbce4645.png)
 ![image](https://user-images.githubusercontent.com/115934581/219889428-e4a228dc-f262-48c6-a2ef-fbaf48d95324.png)
 
+---
 8. GENERATING PROGRAMMING FILE
 ---
 ![image](https://user-images.githubusercontent.com/115934581/219890178-23b42a68-3f93-4598-9abb-5ec0bdb17ced.png)
 ![image](https://user-images.githubusercontent.com/115934581/219891427-82e13696-bccc-4424-bdc5-6c7f77965bcf.png)
 
+- after the bitstream file is ready, connect the development board to pc and open hw manager choose autoconnect and select download programming file on fpga and then we are ready to verify the operation of a system on the board.
+- here completes the entire fpga design flow
+- debug core will be discussed later
 
