@@ -4,3 +4,6 @@ Create project and add design file and constraint file. Files used in the demons
 
 **Now we proceed**
 
+- Run systhesis
+
+
