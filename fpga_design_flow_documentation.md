@@ -76,5 +76,5 @@
 
 - **After the Bitstream file is ready, connect the Development Board to PC and open Hardware Manager choose Autoconnect and Select Download Programming File on FPGA and then we are ready to verify the operation of a system on the Board.**
 - **Here completes the entire FPGA Design Flow**
-- **Debug Core will be discussed later.**
+<!-- - **Debug Core will be discussed later.** -->
 
