@@ -60,7 +60,7 @@
 ---
 ![image](https://user-images.githubusercontent.com/115934581/219885061-c2687379-3c1e-4730-bea1-37de3f1b2f1f.png)
 ![image](https://user-images.githubusercontent.com/115934581/219886299-a8c8c7aa-31f6-43b5-9a3b-3f0d8475e0cd.png)
-- **We can also adopt some Optimization Stategies if we wish to, Demo will be provided ==>here**
+- **We can also adopt some [Optimization Stategies](implementation-strategies.md)**
 
 ---
 ## 7. POST IMPLEMENTATION FUNCTIONAL SIMULATION
